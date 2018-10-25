@@ -1,0 +1,10 @@
+<!--
+ - Created by shoon on 2018/10/26.
+ -->
+
+<aura:documentation>
+    <aura:description>Documentation for AccountLocator</aura:description>
+    <aura:example name="AccountLocator" ref="AccountLocator" label="AccountLocator">
+        Example for AccountLocator
+    </aura:example>
+</aura:documentation>

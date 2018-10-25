@@ -1,0 +1,10 @@
+<!--
+ - Created by shoon on 2018/10/26.
+ -->
+
+<aura:component description="AccountLocator" implements="force:appHostable">
+    <div>
+        <div>AccountMap goes here</div>
+        <div>AccountList goes here</div>
+    </div>
+</aura:component>
